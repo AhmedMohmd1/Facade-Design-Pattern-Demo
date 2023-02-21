@@ -8,9 +8,9 @@ public class PlaceOrderFacadeTest extends BaseTest {
     @Test
     public void placeOrder() {
         placeOrderFacade = new PlaceOrderFacade(driver);
-        String SuccessMessage = placeOrderFacade.placeOrder("ahmed", "mohamed", "hmedmohamed36@gmail.com",
+        String SuccessMessage = placeOrderFacade.placeOrder("ahmed", "mohamed", "ahmedmohamed36@gmail.com",
                 "FacadeDesignPattern", "123456", "123456");
-        System.out.println(SuccessMessage);
+    
         soft.assertEquals(SuccessMessage, "Your order has been successfully processed!");
     }
 }
