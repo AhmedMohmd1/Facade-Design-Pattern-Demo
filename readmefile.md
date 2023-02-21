@@ -18,7 +18,7 @@ Install the necessary dependencies (*Selenium* and *TestNG*) :
 
 ![Selenium](Dependencies/selenium.jpg)
 
-![TestNG](/dependencies/testng.jpg)
+![TestNG](dependencies/testng.jpg)
 
 ># Getting Started
 
@@ -27,7 +27,7 @@ Install the necessary dependencies (*Selenium* and *TestNG*) :
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/bego00/Facade-Design-Pattern-Demo.git
 ```
 
 Go to the project directory
@@ -35,17 +35,21 @@ Go to the project directory
 ```bash
   cd my-project
 ```
+
 ```bash
 Open the project in your preferred IDE(we recommend IntelliJ IDE)
 ```
 
 ># Sample Code
 
-The project includes sample code that demonstrates how the Facade Design Pattern can be implemented in real-world scenarios. The code provides a practical example of how the pattern can be used to simplify the interface of complex systems of components.
+This code shows the test of complete scenario process from registration to purchase.
+
+- [sample code](Dependencies/sampleCode.jpg)
 
 ># Feedback
 
 We welcome your feedback and suggestions for improving the project. If you have any questions or feedback, please don't hesitate to reach out to us.
+>Reach ME :
 
 - [@Ahmed mohamed- Github](https://github.com/bego00)
 - [@LinkedIn](https://www.linkedin.com/in/ahmed2mohamed/)
