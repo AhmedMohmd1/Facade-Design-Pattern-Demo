@@ -12,13 +12,13 @@ Specifically, you will learn:
 2) When and how to apply the Facade Design Pattern
 3) Best practices for using the Facade Design Pattern in your projects
 
-># Prerequisites
 
-Install the necessary dependencies (*Selenium* and *TestNG*) :
+># Sample Code
 
-![Selenium](/SnapShots/selenium.jpg)
+This code shows the test of complete scenario process from registration to purchase.
 
-![TestNG](/SnapShots/testng.jpg)
+- [sample code](/SnapShots/sampleCode.jpg)
+
 
 ># Getting Started
 
@@ -40,11 +40,13 @@ Go to the project directory
 Open the project in your preferred IDE(we recommend IntelliJ IDE)
 ```
 
-># Sample Code
+># Prerequisites
 
-This code shows the test of complete scenario process from registration to purchase.
+Install the necessary dependencies (*Selenium* and *TestNG*) :
 
-- [sample code](/SnapShots/sampleCode.jpg)
+![Selenium](/SnapShots/selenium.jpg)
+
+![TestNG](/SnapShots/testng.jpg)
 
 ># Feedback
 
