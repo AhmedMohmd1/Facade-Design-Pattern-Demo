@@ -16,9 +16,9 @@ Specifically, you will learn:
 
 Install the necessary dependencies (*Selenium* and *TestNG*) :
 
-![Selenium](Dependencies/selenium.jpg)
+![Selenium](/SnapShots/selenium.jpg)
 
-![TestNG](dependencies/testng.jpg)
+![TestNG](/SnapShots/testng.jpg)
 
 ># Getting Started
 
@@ -44,7 +44,7 @@ Open the project in your preferred IDE(we recommend IntelliJ IDE)
 
 This code shows the test of complete scenario process from registration to purchase.
 
-- [sample code](Dependencies/sampleCode.jpg)
+- [sample code](/SnapShots/sampleCode.jpg)
 
 ># Feedback
 
